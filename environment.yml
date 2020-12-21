@@ -1,13 +1,13 @@
 name: Intro_to_Pytorch
 channels:
-  - defaults
   - pytorch
   - conda-forge
   - anaconda
+  - defaults
 dependencies:
   - python=3.8
-  - pytorch
   - cudatoolkit=10.2
+  - pytorch
   - torchvision
   - ipykernel
   - scikit-learn
