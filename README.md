@@ -1,4 +1,5 @@
 # Introduction to PyTorch
+<!-- 
 <p>
   <p align="center">
     <a href="https://github.com/CertifaiAI/Intro_to_Pytorch/blob/master/LICENSE">
@@ -14,7 +15,7 @@
         <img alt="GitHub release" src="https://img.shields.io/github/release/CertifaiAI/Intro_to_Pytorch.svg">
     </a>
 </p>
-
+ -->
 A working repository on [Introduction to Pytorch](https://docs.google.com/document/d/1St7ZU7MzNR-It4zpJIqc6nSNtRiMYFb9ZKf5EaLwuYI/edit?usp=sharing) course.
 
 <!-- 
@@ -32,7 +33,8 @@ This repository contains notebooks for hands-on purpose during training session.
 - 1.4 Tensor Objects Methods
 - 1.5 Tensors on CPU and GPU
 
-#### [Chapter 2: Autograd](https://github.com/CertifaiAI/Intro_to_Pytorch/blob/main/solution/Chapter_2.ipynb) 
+#### [Chapter 2: Autograd](https://github.com/CertifaiAI/Intro_to_Pytorch/blob/main/solution/Chapter%202%20Autograd.ipynb) 
+
 - 2.1 Introduction to Autograd
 - 2.2 Linear Regression Example
 
@@ -40,23 +42,6 @@ This repository contains notebooks for hands-on purpose during training session.
 - 3.1 Dataloader
 - 3.2 Build your First Neural Network (Subclassing nn.Module)
 - 3.3 Build Your First Neural Network (Sequential Model)
-
-#### [Chapter 4: Convolutional Neural Network]()
-- 4.1 Image Transformation Pipeline
-- 4.2 Build Your First Simple CNN Classifier (Pytorch Sequential Model)
-- 4.3 Model Improvement by using Deeper Network
-- 4.4 Building Your ResNet18 (Intro to Model Building with Class)
-- 4.5 Transfer Learning
-
-#### [Chapter 5: Recurrent Neural Network]()
-- 5.1 Data preparation
-- 5.2 Build an RNN model
-- 5.3 Example
-  
-#### [Chapter 6: Advanced Computer Vision]()
-- 6.1 
-- 6.2 
-- 6.3 
 
 ## Built with
 - PyTorch 1.6.0
@@ -97,13 +82,6 @@ conda install cudatoolkit=10.2
 All examples are separated into [training](https://github.com/CertifaiAI/Intro_to_Pytorch/tree/main/training) and [solution](https://github.com/CertifaiAI/Intro_to_Pytorch/tree/main/solution) folders.
 
 All notebooks in **training** folder have few lines commented out so that they can be taught and demonstrated in the class. The **solution** folder contains the un-commented version for every line of codes.
-
-## Known Issues
-- 
--
--
-
-
 
 
 
