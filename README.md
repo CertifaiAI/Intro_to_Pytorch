@@ -1,27 +1,4 @@
 # Introduction to PyTorch
-<!-- 
-<p>
-  <p align="center">
-    <a href="https://github.com/CertifaiAI/Intro_to_Pytorch/blob/master/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/CertifaiAI/Intro_to_Pytorch.svg">
-    </a>
-    <a href="Discord">
-        <img alt="Discord" src="https://img.shields.io/discord/699181979316387842?color=red">
-    </a>
-    <a href="https://certifai.ai">
-        <img alt="Documentation" src="https://img.shields.io/website/http/certifai.ai.svg?color=ff69b4">
-    </a>
-    <a href="https://github.com/CertifaiAI/Intro_to_Pytorch/releases">
-        <img alt="GitHub release" src="https://img.shields.io/github/release/CertifaiAI/Intro_to_Pytorch.svg">
-    </a>
-</p>
- -->
-A working repository on [Introduction to Pytorch](https://docs.google.com/document/d/1St7ZU7MzNR-It4zpJIqc6nSNtRiMYFb9ZKf5EaLwuYI/edit?usp=sharing) course.
-
-<!-- 
-[![](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/images/0)](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/links/0)[![](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/images/1)](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/links/1)[![](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/images/2)](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/links/2)[![](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/images/3)](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/links/3)[![](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/images/4)](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/links/4)[![](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/images/5)](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/links/5)[![](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/images/6)](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/links/6)[![](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/images/7)](https://sourcerer.io/fame/chiaweilim/skymindglobal/Intro_to_Pytorch/links/7)
- -->
- 
 This repository contains notebooks for hands-on purpose during training session. All notebooks had been tested using CPU.
 
 ## Contents
