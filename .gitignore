@@ -1,2 +1,5 @@
 .ipynb_checkpoints
 runs
+generated_model
+FashionMNIST
+MNIST
